@@ -1,3 +1,3 @@
 # Demo
-This is trial repository 
+This is trial repository \n
 Author - Yesha Ravani
